@@ -66,9 +66,7 @@
         </Style>
     </Window.Resources>
 
-    <Window.Background>
-        <ImageBrush ImageSource="C:\Users\Otto Karelsohn\Pictures\Pixel art\Sprite-0002.gif" Stretch="UniformToFill"></ImageBrush>
-    </Window.Background>
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="20"/>
